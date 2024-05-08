@@ -58,7 +58,7 @@ test('valid dates', () => {
 });
 
 test('invalid dates', () => {
-  expect(isDate("02/18/03")).toBe(true);
+  expect(isDate("02/18/03")).toBe(false);
   expect(isDate("02182003")).toBe(false);
 });
 
