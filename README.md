@@ -12,5 +12,5 @@ Yes it would be a good sanity check by sending in a string longer than 80 charac
 
 
 ## Pages URLs:
-https://gauthamp123.github.io/Lab5_Starter/explore.html
-https://gauthamp123.github.io/Lab5_Starter/expose.html
+</p>https://gauthamp123.github.io/Lab5_Starter/explore.html</p>
+<p>https://gauthamp123.github.io/Lab5_Starter/expose.html<p>
